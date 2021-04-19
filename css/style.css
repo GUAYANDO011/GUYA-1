@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+footer{
+    padding: 0;
+    background: rgba(48, 48, 209, 0.619);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.master{
+    display: flex;
+    flex-flow: column wrap;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.master p{
+    color: white;
+}
